@@ -14,7 +14,7 @@ Là 1 app dùng để theo dõi thói quen và giúp tạo các thói quen tốt
 Hình 1. Giao diện chính hiển thị các thói quen đã thêm và tiến độ thực hiện
 
 ![image](https://user-images.githubusercontent.com/51997514/187720060-fe7a3384-0095-4920-9fd3-f23bbc7b4e01.png)
-![image](https://user-images.githubusercontent.com/51997514/187721934-b040b86d-61f0-4314-8399-b30b223e11f6.png)
+![image](https://user-images.githubusercontent.com/51997514/187722088-113a12ee-b9ab-4b31-91fa-a80c069905bc.png)
 
 Hình 2. Giao diện thêm, sửa, xóa một thói quen
 
