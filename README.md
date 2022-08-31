@@ -2,8 +2,11 @@
 Là 1 app dùng để theo dõi thói quen và giúp tạo các thói quen tốt như đọc sách, tập gym, đi bộ hàng ngày...
 
 # Các chức năng của App:
+
 •	Thêm, sửa, xóa 1 thói quen (Habit).
+
 •	Hiển thị tiến độ thực hiện các thói quen theo tuần hoặc theo tháng.
+
 •	Giao diện bấm giờ để theo dõi thời gian đọc sách mỗi ngày.
 
 ![image](https://user-images.githubusercontent.com/51997514/187719926-840854b7-df42-498e-b0df-e75d986aa907.png)
